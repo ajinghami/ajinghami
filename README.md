@@ -28,11 +28,8 @@
   <a href="mailto:abhat1@binghamton.edu?subject=Hello%20Ajinkya,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a target="_blank"href="https://www.instagram.com/AjinkyaForYou"><img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    
-
   
 </p>
-
-
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ajinghami&label=Profile%20views&color=0e75b6&style=flat" alt="ajinghami" /> </p>
